@@ -1,0 +1,11 @@
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\bin\Debug\loginscreen_myexercise.exe.config
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\bin\Debug\loginscreen_myexercise.exe
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\bin\Debug\loginscreen_myexercise.pdb
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.csproj.AssemblyReference.cache
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.Form1.resources
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.Properties.Resources.resources
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.csproj.GenerateResource.cache
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.csproj.CoreCompileInputs.cache
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.exe
+C:\Users\Xakar\source\repos\loginscreen_myexercise\loginscreen_myexercise\obj\Debug\loginscreen_myexercise.pdb
